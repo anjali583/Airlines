@@ -681,7 +681,7 @@ if selected == "Prediction":
         satisfaction_status = "Very Dissatisfied"
 
     # Display only the satisfaction status
-    st.write(f"Customer is: {satisfaction_status}")
+    st.write(**f"Customer is: {satisfaction_status}"**)
 
 
 if selected == "Conclusion":
