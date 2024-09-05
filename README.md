@@ -1,5 +1,7 @@
 **Stremlit App Link:** https://airlines-satisfaction.streamlit.app/
 
+![image](https://github.com/user-attachments/assets/02c04b4c-1428-4000-9a70-e88ed00deaa9)
+
  **Project Description: Airline Passenger Satisfaction Web App**
 This project involves building an interactive web application using Streamlit to analyze airline passenger satisfaction data. The app aims to provide users with insights through exploratory data analysis (EDA), Principal Component Analysis (PCA), and Factor Analysis. Furthermore, it implements predictive modeling using Logistic Regression, Decision Tree, and Random Forest algorithms to classify passengers based on their satisfaction levels.
 
